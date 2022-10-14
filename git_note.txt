@@ -1,0 +1,10 @@
+open cmd with folderpath
+
+commands
+-----------
+git   - for listing commands(if git installed)
+
+git init     - for initialize a folder with git
+
+
+
